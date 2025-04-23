@@ -16,12 +16,14 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Favorite tools
+## Favorite tools 🔧
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-
+## Stats 👾
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EleanQuintero&layout=compact&theme=dark)
+
+![Elean Quintero GitHub stats](https://github-readme-stats.vercel.app/api?username=EleanQuintero&show_icons=true&theme=dark)
 
 Check out my profile and get in touch—let’s turn any idea into reality. 😁
  
