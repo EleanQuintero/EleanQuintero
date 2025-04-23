@@ -25,7 +25,7 @@
 
 ![Elean Quintero GitHub stats](https://github-readme-stats.vercel.app/api?username=EleanQuintero&show_icons=true&theme=dark)
 
-Check out my profile and get in touch—let’s turn any idea into reality. 😁
+# Check out my profile and get in touch—let’s turn any idea into reality. 😁
  
 
 
